@@ -45,12 +45,12 @@ window.QUIZ_CHAPTERS[1] = [
     1,
   ],
   [
-    "Theo cách tiếp cận của Dueker & Kjerne (1989), GIS được nhìn nhận gắn liền với vai trò nào sau đây?",
+    "Theo định nghĩa của Dueker & Kjerne (1989), GIS được cấu thành bởi sự kết hợp của những yếu tố nào?",
     [
-      "Một hệ thống quản trị cơ sở dữ liệu bằng máy tính dùng để thu thập, lưu trữ, phân tích và hiển thị dữ liệu có tham chiếu không gian",
-      "Một công cụ soạn thảo văn bản hành chính đơn thuần",
-      "Một hệ thống truyền dẫn tín hiệu vô tuyến",
-      "Một tập hợp bản đồ giấy lưu trữ trong thư viện",
+      "Phần cứng, phần mềm, dữ liệu, con người, tổ chức và các sắp xếp thể chế",
+      "Chỉ bao gồm phần cứng máy tính, phần mềm đồ họa và cơ sở dữ liệu bản đồ",
+      "Hệ thống vệ tinh viễn thám, trạm thu mặt đất và thiết bị định vị GPS",
+      "Bản đồ địa hình, hệ tọa độ trắc địa và các thuật toán nội suy không gian",
     ],
     0,
     1,
